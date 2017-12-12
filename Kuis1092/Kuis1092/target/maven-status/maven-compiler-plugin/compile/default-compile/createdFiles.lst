@@ -1,0 +1,9 @@
+com\WinnieAlison\Kuis1092\entity\cv_1092.class
+com\WinnieAlison\Kuis1092\controller\cv_1092_controller.class
+com\WinnieAlison\Kuis1092\controller\nilai_1092_controller.class
+com\WinnieAlison\Kuis1092\repo\cv_1092_repo.class
+com\WinnieAlison\Kuis1092\service\cv_1092_service.class
+com\WinnieAlison\Kuis1092\Kuis1092Application.class
+com\WinnieAlison\Kuis1092\entity\nilai_1092.class
+com\WinnieAlison\Kuis1092\repo\nilai_1092_repo.class
+com\WinnieAlison\Kuis1092\service\nilai_1092_service.class
